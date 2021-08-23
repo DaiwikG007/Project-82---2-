@@ -1,0 +1,25 @@
+#heading{
+    color: red;
+    font-size: 50px;
+}
+
+#bg {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+    
+}
+
+#myCanvas {
+    background-color: white;
+    border: 4px;
+    border-style: ridge;
+}
+
+#clear_area{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 20px;
+}
